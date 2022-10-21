@@ -1,1 +1,3 @@
-Java VS C++ bubble sorts têm complexidas iguais: O(n^2)
+Java VS C++ || Bubble sorts têm complexidas iguais: O(n^2)
+
+Go VS PowerShell || Em ambas as linguagens um loop percorrendo uma array têm complexidade de tempo linear: O(n) 
